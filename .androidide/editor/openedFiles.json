@@ -1,7 +1,37 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Nerine/app/src/main/AndroidManifest.xml",
+      "file": "/storage/emulated/0/AndroidIDEProjects/nerine/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1765,
+          "line": 53
+        },
+        "start": {
+          "column": 1,
+          "index": 1765,
+          "line": 53
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/nerine/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 324,
+          "line": 13
+        },
+        "start": {
+          "column": 1,
+          "index": 324,
+          "line": 13
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/nerine/app/src/main/AndroidManifest.xml",
       "selection": {
         "end": {
           "column": 0,
@@ -16,50 +46,35 @@
       }
     },
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Nerine/app/src/main/java/com/shirakawa/nerine/MainActivity.kt",
+      "file": "/storage/emulated/0/AndroidIDEProjects/nerine/app/src/main/java/com/shirakawa/nerine/MainActivity.kt",
       "selection": {
         "end": {
           "column": 1,
-          "index": 2692,
-          "line": 85
+          "index": 1992,
+          "line": 68
         },
         "start": {
           "column": 1,
-          "index": 2692,
-          "line": 85
+          "index": 1992,
+          "line": 68
         }
       }
     },
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Nerine/build.gradle.kts",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        },
-        "start": {
-          "column": 0,
-          "index": 0,
-          "line": 0
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Nerine/app/build.gradle.kts",
+      "file": "/storage/emulated/0/AndroidIDEProjects/nerine/app/src/main/java/com/shirakawa/nerine/ui/theme/Theme.kt",
       "selection": {
         "end": {
           "column": 1,
-          "index": 1780,
-          "line": 65
+          "index": 1089,
+          "line": 40
         },
         "start": {
           "column": 1,
-          "index": 1780,
-          "line": 65
+          "index": 1089,
+          "line": 40
         }
       }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Nerine/app/src/main/java/com/shirakawa/nerine/MainActivity.kt"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/nerine/app/src/main/java/com/shirakawa/nerine/ui/theme/Theme.kt"
 }
